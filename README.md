@@ -72,3 +72,5 @@ Each JSON sample contains `label`, `emoji`, `image` as a data URL, normalized `l
 ## Accessibility notes
 
 The app uses high-contrast colors, large controls, visible focus styles, labels, status messages, and simple language. Camera recognition should be treated as practice support and not as a replacement for a qualified sign-language interpreter.
+
+hello bellow 
